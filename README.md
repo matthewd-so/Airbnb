@@ -19,11 +19,12 @@ googlePlacesAPI= <-- INPUT YOUR GOOGLE PLACES API
 First, install the packages:
 
 ```npm i```
+
 Second, run the development server:
 
-npm run dev
+```npm run dev
 # or
-yarn dev
+```yarn dev
 Open http://localhost:3000 with your browser to see the result.
 
 
