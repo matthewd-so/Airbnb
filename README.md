@@ -14,5 +14,18 @@ NEXT_PUBLIC_SANITY_DATASET=production
 NEXT_PUBLIC_SANITY_PROJECT_ID= <-- INPUT YOUR SANITY PROJECT ID
 googlePlacesAPI= <-- INPUT YOUR GOOGLE PLACES API
 
+#Getting Started
+
+First, install the packages:
+
+npm i
+Second, run the development server:
+
+npm run dev
+# or
+yarn dev
+Open http://localhost:3000 with your browser to see the result.
+
+
 
 
