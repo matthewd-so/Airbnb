@@ -18,7 +18,8 @@ googlePlacesAPI= <-- INPUT YOUR GOOGLE PLACES API
 
 First, install the packages:
 
-```npm i```
+```bash
+npm i```
 
 Second, run the development server:
 
